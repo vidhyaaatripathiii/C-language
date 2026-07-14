@@ -1,6 +1,3 @@
-// My first C project
-// Created while learning Git and GitHub
-
 #include <stdio.h>
 
 int main() {
@@ -35,3 +32,6 @@ int main() {
 
     return 0;
 }
+
+// My first C project
+// Created while learning Git and GitHub
