@@ -18,3 +18,6 @@ int main()
 
     return 0; 
 }  
+
+// My second C project
+// Created while learning Git and GitHub
